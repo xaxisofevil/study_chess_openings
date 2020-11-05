@@ -1,0 +1,25 @@
+#boardSection .white {
+    background-color: transparent !important;
+}
+#boardSection .black {
+    background-color: transparent !important;
+}
+#boardSection .blue {
+    background-color: transparent !important;
+}
+#boardSection {
+    justify-content: center;
+}
+#treeSection {
+    justify-content: center;
+    height: clamp(340px, min(55vw,55vh), 660px);
+}
+.bannertext {
+    color: violet;
+}
+
+.eric {
+    color: #204165 !important
+  }
+
+html { overflow-x: auto }
